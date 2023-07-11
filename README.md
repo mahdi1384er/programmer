@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm mahdi</h1>
 <h3 align="center">Front-end Developer react.js</h3>
-<img align="right" width="400px" src="https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/291859607_448116677321402_1624782678639429873_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=nThRyuNFEeoAX_JyfC5&_nc_ht=scontent-cdg4-1.xx&oh=00_AfCbNTmx-WyMDQMFmJqEuxiWrGVe7qACyAl3mDCjRtzLsQ&oe=64B229E9"> 
+<img align="right" width="250px" src="https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/291859607_448116677321402_1624782678639429873_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=nThRyuNFEeoAX_JyfC5&_nc_ht=scontent-cdg4-1.xx&oh=00_AfCbNTmx-WyMDQMFmJqEuxiWrGVe7qACyAl3mDCjRtzLsQ&oe=64B229E9"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdi1384er&label=Profile%20views&color=0e75b6&style=flat" alt="mahdi1384er" /> </p>
 
